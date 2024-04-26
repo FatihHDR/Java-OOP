@@ -11,4 +11,9 @@ To compile the Java files, navigate to the src directory and run the following c
 
 ```bash
 javac Main.java
+```
+And then run the code using this command:
 
+```bash
+java Main.java
+```
